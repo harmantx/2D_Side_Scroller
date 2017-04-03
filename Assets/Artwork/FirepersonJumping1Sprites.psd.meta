@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: ffa7f3666f6bea44d859d0f2cea323bb
+timeCreated: 1487188636
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FirepersonJumping1Sprites_0
+    21300002: FirepersonJumping1Sprites_1
+    21300004: FirepersonJumping1Sprites_2
+    21300006: FirepersonJumping1Sprites_3
+    21300008: FirepersonJumping1Sprites_4
+    21300010: FirepersonJumping1Sprites_5
+    21300012: FirepersonJumping1Sprites_6
+    21300014: FirepersonJumping1Sprites_7
+    21300016: FirepersonJumping1Sprites_8
+    21300018: FirepersonJumping1Sprites_9
+    21300020: FirepersonJumping1Sprites_10
+    21300022: FirepersonJumping1Sprites_11
+    21300024: FirepersonJumping1Sprites_12
+    21300026: FirepersonJumping1Sprites_13
+    21300028: FirepersonJumping1Sprites_14
+    21300030: FirepersonJumping1Sprites_15
+    21300032: FirepersonJumping1Sprites_16
+    21300034: FirepersonJumping1Sprites_17
+    21300036: FirepersonJumping1Sprites_18
+    21300038: FirepersonJumping1Sprites_19
+    21300040: FirepersonJumping1Sprites_23
+    21300042: FirepersonJumping1Sprites_24
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 505
+        width: 138
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 505
+        width: 148
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 505
+        width: 140
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 505
+        width: 141
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 505
+        width: 155
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 505
+        width: 166
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 474
+        width: 166
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 456
+        width: 143
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 448
+        width: 127
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 464
+        width: 196
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 491
+        width: 205
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 491
+        width: 192
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 208
+        width: 207
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 154
+        width: 209
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 160
+        width: 205
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 177
+        width: 204
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 177
+        width: 182
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 188
+        width: 182
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 189
+        width: 176
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FirepersonJumping1Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 171
+        width: 164
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
